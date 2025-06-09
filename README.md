@@ -4,55 +4,106 @@
   <meta charset="UTF-8" />
   <title>About Me - Pushti Kansara</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
     body {
-      font-family: Arial, sans-serif;
-      background: #121212;
-      color: #e0e0e0;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      font-family: 'Poppins', sans-serif;
+      color: #f0f8ff;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border-radius: 20px;
+      padding: 40px 50px;
       max-width: 600px;
-      margin: 40px auto;
-      padding: 20px;
-      border-radius: 10px;
-      background-color: #1e1e1e;
-      box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+      box-shadow: 0 8px 32px rgba(0, 255, 255, 0.3);
+      text-align: center;
+      animation: fadeIn 1.5s ease forwards;
+      opacity: 0;
     }
+
     h1 {
-      color: #00ffff;
+      font-size: 3rem;
+      margin-bottom: 0.2em;
+      color: #00fff7;
+      text-shadow: 0 0 10px #00fff7;
     }
-    p {
-      font-size: 18px;
-      line-height: 1.6;
+
+    p.lead {
+      font-size: 1.25rem;
+      margin-bottom: 1.5em;
+      font-weight: 500;
+      color: #caf0f8;
     }
+
     ul {
       list-style: none;
-      padding-left: 0;
+      padding: 0;
+      margin-bottom: 2em;
+      text-align: left;
     }
-    li {
-      margin: 8px 0;
-      font-size: 18px;
+
+    ul li {
+      font-size: 1.2rem;
+      margin: 1em 0;
+      padding-left: 40px;
+      position: relative;
+      color: #ade8f4;
+      font-weight: 600;
+      transition: color 0.3s ease;
     }
-    .emoji {
-      font-size: 22px;
-      margin-right: 10px;
+
+    ul li::before {
+      content: attr(data-emoji);
+      position: absolute;
+      left: 10px;
+      font-size: 1.5rem;
+    }
+
+    ul li:hover {
+      color: #00fff7;
+      cursor: default;
+    }
+
+    p.footer {
+      font-style: italic;
+      color: #90e0ef;
+      font-weight: 400;
+    }
+
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+      }
     }
   </style>
 </head>
 <body>
-  <h1>👋 Hello, I'm Pushti Kansara!</h1>
-  <p>
-    I'm currently pursuing <strong>Computer Engineering</strong> 🎓 and passionate about learning new technologies every day.
-  </p>
-  <p>Here’s what I’m currently learning and interested in:</p>
-  <ul>
-    <li><span class="emoji">💻</span> Programming Languages: C++, C, Python, Java</li>
-    <li><span class="emoji">🌐</span> Web Technologies: HTML, CSS</li>
-    <li><span class="emoji">🤖</span> Interested in Artificial Intelligence & Machine Learning (AIML)</li>
-  </ul>
-  <p>
-    I love exploring coding challenges and working on projects that help me grow as a developer.  
-    Follow along my journey as I build my skills step by step! 🚀
-  </p>
+  <div class="container">
+    <h1>👋 Hi, I'm Pushti Kansara!</h1>
+    <p class="lead">
+      Currently pursuing <strong>Computer Engineering</strong> 🎓 and passionate about learning new technologies every day.
+    </p>
+    <ul>
+      <li data-emoji="💻">Programming Languages: C++, C, Python, Java</li>
+      <li data-emoji="🌐">Web Technologies: HTML, CSS</li>
+      <li data-emoji="🤖">Interested in Artificial Intelligence & Machine Learning (AIML)</li>
+    </ul>
+    <p class="footer">
+      Exploring coding challenges and projects to grow step-by-step 🚀. Join me on this journey!
+    </p>
+  </div>
 </body>
 </html>
+
 <h2 align="center">⚡ Streaks ⚡</h2>
 <br />
 <p align=center>
