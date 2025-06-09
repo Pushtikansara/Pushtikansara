@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Pushti Kansara!
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=500&lines=👋+Welcome+to+my+GitHub!;Computer+Engineering+Student;Just+started+my+coding+journey+💻;Learning+Python%2C+C%2B%2B%2C+HTML%2C+CSS+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing Animation" />
 </p>
+
+
+
 
 I am a **Computer Engineering** student 🎓 with a passion for programming and technology.  
 My journey includes exploring multiple programming languages and web technologies while developing real-world skills.
@@ -40,10 +43,11 @@ I'm eager to grow in Artificial Intelligence and Machine Learning 🤖 — field
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Here's+my+coding+stats+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/Pushtikansara">
