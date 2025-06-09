@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pushti Kansara!
 
-I am a dedicated **Computer Engineering** student 🎓 with a passion for programming and technology.  
+I am a **Computer Engineering** student 🎓 with a passion for programming and technology.  
 My journey includes exploring multiple programming languages and web technologies while developing real-world skills.
 
 I enjoy solving problems, writing code, and learning new concepts every day.  
