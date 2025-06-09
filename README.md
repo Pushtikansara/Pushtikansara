@@ -44,7 +44,7 @@ I'm eager to grow in Artificial Intelligence and Machine Learning 🤖 — field
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Here's+my+coding+stats+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Here's+my+github+stats+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 
@@ -61,8 +61,7 @@ I'm eager to grow in Artificial Intelligence and Machine Learning 🤖 — field
 
 ---
 
-### ✨ Thank you for visiting!  
-Let’s connect and collaborate on amazing projects! 🌟
+### ✨ Thank you for visiting!! 🌟
 
 
     
