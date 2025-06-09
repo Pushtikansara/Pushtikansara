@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Pushti Kansara!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=500&lines=👋+Welcome+to+my+GitHub!;Computer+Engineering+Student;Just+started+my+coding+journey+💻;Learning+Python%2C+C%2B%2B%2C+HTML%2C+CSS+🚀" alt="Typing animation" />
+</p>
 
 I am a **Computer Engineering** student 🎓 with a passion for programming and technology.  
 My journey includes exploring multiple programming languages and web technologies while developing real-world skills.
