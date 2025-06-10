@@ -1,70 +1,53 @@
-# 👋 Hi, I'm Pushti Kansara!
+# 🌸 Hi there, I'm Pushti Kansara!
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F4C2C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+space!" alt="Typing Animation" />
 </p>
 
+## 🌼 About Me
 
+I’m a *Computer Engineering student* passionate about technology and creativity. I love building things that matter — from simple web designs to exploring advanced AI ideas.  
 
-
-I am a **Computer Engineering** student 🎓 with a passion for programming and technology.  
-My journey includes exploring multiple programming languages and web technologies while developing real-world skills.
-
-I enjoy solving problems, writing code, and learning new concepts every day.  
-I'm eager to grow in Artificial Intelligence and Machine Learning 🤖 — fields shaping the future.
-
----
-
-## 🚀 Skills & Interests
-
-- 💻 Programming Languages: C++, C, Python, Java  
-- 🌐 Web Technologies: HTML & CSS  
-- 🤖 Artificial Intelligence & Machine Learning (AIML) enthusiast  
-- 📚 Lifelong learner seeking challenges to improve skills  
-- 🛠️ Building projects 
+Here’s a little about me:
+- ✨ Curious learner who enjoys discovering new tech  
+- 💻 Passionate about writing clean and efficient code  
+- 🎯 Currently exploring Artificial Intelligence & Machine Learning  
+- 📚 Believer in lifelong learning and small consistent growth  
+- 🌱 Always working on becoming a better version of myself
 
 ---
 
-## ⚡ GitHub Streak
+## 🧠 Skills & Tools
+
+| Area                | Technologies/Tools                                    |
+|---------------------|--------------------------------------------------------|
+| 💻 Programming       | C++, C, Python, Java                           |
+| 🌐 Web Basics        | HTML, CSS                                          |
+| 🤖 Interests         | Artificial Intelligence, Machine Learning              |
+| 🛠 Tools            | Git, VS Code, Command Line                             |
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Pushtikansara&theme=radical&card_width=900&card_height=280" alt="GitHub Streak" style="border-radius:12px;" />
-  </a>
-</p>
-
----
-
-## 🌟 Contributions Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushtikansara&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="GitHub Contribution Graph" style="border-radius: 12px;" />
+  <img src="https://streak-stats.demolab.com?user=Pushtikansara&theme=rose_pine&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Here's+my+github+stats+%F0%9F%93%8A" alt="Typing SVG" />
-</p>
-
-
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Pushtikansara">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushtikansara&theme=radical&layout=compact&hide=html" alt="Top Languages" style="border-radius:12px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide=html&hide_border=true" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Pushtikansara">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pushtikansara&theme=radical&show_icons=true" alt="GitHub Stats" style="border-radius:12px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true" />
   </a>
 </p>
 
 ---
 
-### ✨ Thank you for visiting!! 🌟
-
-
-    
-     
-   
+### 🌈 Grateful for your visit! ✨
 
