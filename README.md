@@ -6,7 +6,7 @@
 
 ## 🌼 About Me
 
-I’m a *Computer Engineering student* passionate about technology and creativity. I love building things that matter — from simple web designs to exploring advanced AI ideas.  
+I’m a Computer Engineering student passionate about technology and creativity. I love building things that matter — from simple web designs to exploring advanced AI ideas.  
 
 Here’s a little about me:
 - ✨ Curious learner who enjoys discovering new tech  
@@ -25,6 +25,7 @@ Here’s a little about me:
 | 🌐 Web Basics        | HTML, CSS                                          |
 | 🤖 Interests         | Artificial Intelligence, Machine Learning              |
 | 🛠 Tools            | Git, VS Code, Command Line                             |
+
 ---
 
 ## 🔥 GitHub Streak
@@ -32,6 +33,14 @@ Here’s a little about me:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pushtikansara&theme=rose_pine&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
+---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushtikansara&theme=react-dark&hide_border=true&area=false&color=00FFFF&line=FFD1DC&point=FADADD" />
+</p>
+
 
 ---
 
@@ -50,4 +59,3 @@ Here’s a little about me:
 ---
 
 ### 🌈 Grateful for your visit! ✨
-
