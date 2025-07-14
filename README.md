@@ -22,7 +22,7 @@ Here’s a little about me:
 | Area                | Technologies/Tools                                    |
 |---------------------|--------------------------------------------------------|
 | 💻 Programming       | C++, C, Python, Java                           |
-| 🌐 Web Basics        | HTML, CSS ,Javascript                                        |
+| 🌐 Web Basics        | HTML, CSS , Javascript                                        |
 | 🤖 Interests         | Artificial Intelligence, Machine Learning              |
 | 🛠 Tools            | Git, VS Code, Command Line                             |
 
