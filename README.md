@@ -1,62 +1,92 @@
-# 🌸 Hi there, I'm Pushti Kansara!
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F2B6C6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pushti+Kansara!;Learning+AI+%7C+Machine+Learning+%7C+Data+Science;Welcome+to+My+Tech+Space" alt="Typing Animation" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F4C2C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+space!" alt="Typing Animation" />
-</p>
+---
 
 ## 🌼 About Me
 
-I’m a Computer Engineering student passionate about technology and creativity. I love building things that matter — from simple web designs to exploring advanced AI ideas.  
+I’m a **Computer Engineering student** currently building my foundation in  
+**Artificial Intelligence, Machine Learning, and Data Science.**
 
-Here’s a little about me:
-- ✨ Curious learner who enjoys discovering new tech  
-- 💻 Passionate about writing clean and efficient code  
-- 🎯 Currently exploring Artificial Intelligence & Machine Learning  
-- 📚 Believer in lifelong learning and small consistent growth  
-- 🌱 Always working on becoming a better version of myself
+I enjoy learning concepts slowly and deeply,  
+experimenting with beginner-friendly projects,  
+and improving through practice.
 
 ---
 
-## 🧠 Skills & Tools
+## 📘 Learning Phase Focus
 
-| Area                | Technologies/Tools                                    |
-|---------------------|--------------------------------------------------------|
-| 💻 Programming       | C++, C, Python, Java                           |
-| 🌐 Web Basics        | HTML, CSS , Javascript                                        |
-| 🤖 Interests         | Artificial Intelligence, Machine Learning              |
-| 🛠 Tools            | Git, VS Code, Command Line                             |
+- Python for ML & data analysis  
+- Data preprocessing and cleaning  
+- Statistics & probability basics  
+- Matplotlib & Seaborn visualizations  
+- Intro to Machine Learning models  
+- Understanding AI fundamentals  
 
 ---
 
-## 🔥 GitHub Streak
+## 🎨 Technical Skills
+
+### 💗 Programming  
+`Python` • `C++` • `C` • `Java`
+
+### 💜 Data Science & ML  
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`  
+`Scikit-learn`  
+
+### 💙 Areas of Interest  
+`Machine Learning` • `Artificial Intelligence` • `Data Analytics`
+
+### 💫 Tools  
+`VS Code` • `Git` • `GitHub` • `Jupyter Notebook`
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pushtikansara&theme=rose_pine&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Pushtikansara
+  &background=1A1B27
+  &ring=ff9ecf
+  &fire=ff9ecf
+  &currStreakLabel=ff9ecf
+  &currStreakNum=ffffff
+  &sideNums=ffffff
+  &sideLabels=ffffff
+  &dates=ffffff
+  &hide_border=true
+  &v=3" />
 </p>
 
-
 ---
-## 📈 Contribution Graph
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushtikansara&theme=react-dark&hide_border=true&area=false&color=00FFFF&line=FFD1DC&point=FADADD" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide_border=true" height="165" />
 </p>
-
 
 ---
 
-## 📊 GitHub Stats
+# 🌈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Pushtikansara">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide=html&hide_border=true" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Pushtikansara">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushtikansara&theme=rogue&hide_border=true&area=true&radius=14" />
 </p>
 
 ---
 
-### 🌈 Grateful for your visit! ✨
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Pushti%20Kansara-F2B6C6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D9A7E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🌸 Thank You for Visiting  
+
+
