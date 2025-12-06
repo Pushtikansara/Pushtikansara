@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F2B6C6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pushti+Kansara!;Learning+AI+%7C+Machine+Learning+%7C+Data+Science;Welcome+to+My+Tech+Space" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F2B6C6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pushti+Kansara!%20%F0%9F%8C%9F;Learning+AI+|+Machine+Learning+|+Data+Science;Welcome+to+My+Tech+Space%20%F0%9F%8C%88" alt="Typing Animation" />
 </h1>
+
 
 ---
 
@@ -18,8 +19,7 @@ and improving through practice.
 ## 📘 Learning Phase Focus
 
 - Python for ML & data analysis  
-- Data preprocessing and cleaning  
-- Statistics & probability basics  
+- Data preprocessing and cleaning
 - Matplotlib & Seaborn visualizations  
 - Intro to Machine Learning models  
 - Understanding AI fundamentals  
