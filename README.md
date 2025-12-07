@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F2B6C6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pushti+Kansara!%20%F0%9F%8C%9F;Learning+AI+|+Machine+Learning+|+Data+Science;Welcome+to+My+Tech+Space%20%F0%9F%8C%88" alt="Typing Animation" />
 </h1>
 
-
 ---
 
 ## 🌼 About Me
@@ -19,7 +18,7 @@ and improving through practice.
 ## 📘 Learning Phase Focus
 
 - Python for ML & data analysis  
-- Data preprocessing and cleaning
+- Data preprocessing and cleaning  
 - Matplotlib & Seaborn visualizations  
 - Intro to Machine Learning models  
 - Understanding AI fundamentals  
@@ -64,8 +63,8 @@ and improving through practice.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-production-7b2c.up.railway.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-production-7b2c.up.railway.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide_border=true" height="165" />
 </p>
 
 ---
@@ -88,5 +87,4 @@ and improving through practice.
 ---
 
 ## 🌸 Thank You for Visiting  
-
 
