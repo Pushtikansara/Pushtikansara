@@ -80,8 +80,8 @@ and improving through practice.
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Pushti%20Kansara-F2B6C6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D9A7E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pushti-kansara-207415318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Pushti%20Kansara-F2B6C6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
 </p>
 
 ---
