@@ -35,7 +35,7 @@ and improving through practice.
 `Scikit-learn`  
 
 ### 💙 Areas of Interest  
-`Machine Learning` • `Artificial Intelligence` • `Data Analytics`
+`Machine Learning` • `Artificial Intelligence` • `Data Analytics` • `Data Science`
 
 ### 💫 Tools  
 `VS Code` • `Git` • `GitHub` • `Jupyter Notebook`
