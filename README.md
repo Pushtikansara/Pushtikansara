@@ -43,19 +43,11 @@ and improving through consistent practice.
 ---
 
 # 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pushtikansara
-  &background=1A1B27
-  &ring=ff9ecf
-  &fire=ff9ecf
-  &currStreakLabel=ff9ecf
-  &currStreakNum=ffffff
-  &sideNums=ffffff
-  &sideLabels=ffffff
-  &dates=ffffff
-  &hide_border=true" />
+  <img src="https://metrics.lecoq.io/Pushtikansara?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&config.color=ff9ecf&config.bg=1A1B27" />
 </p>
+
+
 
 ---
 
