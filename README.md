@@ -11,7 +11,7 @@ I’m a **Computer Engineering student** currently building my foundation in
 
 I enjoy learning concepts slowly and deeply,  
 experimenting with beginner-friendly projects,  
-and improving through practice.
+and improving through consistent practice.
 
 ---
 
@@ -54,8 +54,7 @@ and improving through practice.
   &sideNums=ffffff
   &sideLabels=ffffff
   &dates=ffffff
-  &hide_border=true
-  &v=3" />
+  &hide_border=true" />
 </p>
 
 ---
@@ -63,8 +62,8 @@ and improving through practice.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-production-7b2c.up.railway.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-production-7b2c.up.railway.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 ---
@@ -80,8 +79,9 @@ and improving through practice.
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pushti-kansara-207415318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Pushti%20Kansara-F2B6C6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
+  <a href="https://www.linkedin.com/in/pushti-kansara-207415318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Pushti%20Kansara-F2B6C6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
