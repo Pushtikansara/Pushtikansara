@@ -44,9 +44,8 @@ and improving through consistent practice.
 
 # 🔥 GitHub Streak
 <p align="center">
-  <img src="https://metrics.lecoq.io/Pushtikansara?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&config.color=ff9ecf&config.bg=1A1B27" />
+  <img src="https://streak-stats.demolab.com?user=Pushtikansara&theme=rose_pine&hide_border=true" />
 </p>
-
 
 
 ---
@@ -54,8 +53,8 @@ and improving through consistent practice.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pushtikansara&show_icons=true&theme=rose_pine&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pushtikansara&layout=compact&theme=rose_pine&hide_border=true" height="165"/>
 </p>
 
 ---
